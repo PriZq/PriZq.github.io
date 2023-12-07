@@ -15,6 +15,7 @@ Reply - это сайт, который упростит работу сотру
 [Исходники](https://github.com/PriZq/PriZq.github.io/blob/main/README.md#%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8)
 
 # Технологии
+Python(Django), HTML, CSS
 # Использование
 # Разработка
 # Запуск
